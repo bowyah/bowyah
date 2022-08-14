@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bowyah
 - 👀 I’m interested in learning
 - 🌱 I’m currently learning Software Engineering
-- 💞️ I’m looking to collaborate on helping me on some projects some projects...
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ... +231778101044
 
 <!---
